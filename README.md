@@ -37,3 +37,41 @@ The dataset contains simulated information about crop types, soil properties, we
 ## Limitations
 
 Since the dataset is simulated, the results are intended to demonstrate analytical methods and technical skills rather than draw conclusions about real-world agricultural production.
+
+## Statistics
+
+![Rainfall vs. Agricultural Yield](rainfall_vs_yield.png)
+
+**Key finding**
+
+The scatter plot explores the relationship between rainfall
+and yield across crop types in the simulated dataset.
+The observed association does not establish causation or
+represent validated real-world agronomic relationships.
+
+
+![Average Yield by Crop](average_yield_by_crop.png)
+
+**Key finding**
+
+Maize has the highest average yield in the simulated dataset.
+These results are descriptive and do not represent actual
+agricultural performance or profitability.
+
+![Yield Distribution](yield_distribution.png)
+
+**Key finding**
+
+The histogram shows how yield observations are distributed
+across different intervals. Differences between crop types
+may contribute to the overall distribution shape.
+
+
+![Yield Variability by Crop](yield_variability_by_crop.png)
+
+**Key finding**
+
+Wheat has the highest standard deviation, while soybean has
+the highest coefficient of variation in the simulated dataset.
+
+
